@@ -1,5 +1,8 @@
+print("Como te llamas?")
 nombre = input ("Nacho")
-print ("Hola", nombre)
+print("Me llamo", nombre)
+
+
 
 
 
